@@ -1,10 +1,8 @@
 <script setup>
-import { VButton } from 'iodine-vuetify-lib'
-import { NonVuetify } from 'iodine-vuetify-lib'
-import { VTextInput } from 'iodine-vuetify-lib'
-import { VDatePicker } from 'vuetify/labs/VDatePicker'
-import { VDatePick } from 'iodine-vuetify-lib'
-// import 'iodine-vuetify-lib/style.css'
+import { VButton } from 'iodine-lib'
+import { NonVuetify } from 'iodine-lib'
+import { VTextInput } from 'iodine-lib'
+import { VDatePick } from 'iodine-lib'
 import 'vuetify/dist/vuetify.min.css'
 </script>
 
@@ -14,7 +12,6 @@ import 'vuetify/dist/vuetify.min.css'
       <VTextInput />
       <VButton />
       <NonVuetify/>
-      <VDatePicker />
       <VDatePick />
     </v-main>
   </v-app>
