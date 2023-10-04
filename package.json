@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mdi/font": "5.9.55",
-    "iodine-vuetify-lib": "^0.2.1",
+    "iodine-vuetify-lib": "^0.2.2",
     "roboto-fontface": "*",
     "vue": "^3.3.4",
     "vuetify": "^3.3.19",
